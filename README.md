@@ -1,1 +1,2 @@
-# H8_PYTN-KS12-013_Batch4
+# Jonathan Adiwinata (Python For Data Science) 
+untuk menyimpan materi pembelajaran dari Hacktiv8
